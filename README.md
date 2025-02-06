@@ -1,1 +1,3 @@
 # dnsBeacon
+
+apt install dnsutils
